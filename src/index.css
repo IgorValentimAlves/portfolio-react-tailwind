@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+    --cor1: #04ADBF;
+    --cor2: #096873;
+    --cor3: #ADBF26;
+    --cor4: #D2D911;
+    --cor5: #FFFFFF;
+}
