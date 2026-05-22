@@ -10,7 +10,7 @@ const Projetos = () => {
 
             <div className="grid md:grid-cols-2 gap-6">
 
-                <a href="https://github.com/IgorValentimAlves/to-do-list">
+                <a href="https://github.com/IgorValentimAlves/to-do-list" target="_blank">
                     <div className="bg-[#F5F7F7] p-6 rounded-2xl shadow-md hover:scale-105 duration-300">
                         <h3 className="text-2xl font-bold text-[#096873] mb-3">
                             To-Do List
@@ -22,7 +22,7 @@ const Projetos = () => {
                     </div>
                 </a>
 
-                <a href="https://github.com/IgorValentimAlves/petshop-site">
+                <a href="https://github.com/IgorValentimAlves/petshop-site" target="_blank">
                     <div className="bg-[#F5F7F7] p-6 rounded-2xl shadow-md hover:scale-105 duration-300">
                         <h3 className="text-2xl font-bold text-[#096873] mb-3">
                             PetShop
@@ -34,7 +34,7 @@ const Projetos = () => {
                     </div>
                 </a>
 
-                <a href="https://github.com/IgorValentimAlves/gerador-frases-motivacionais">
+                <a href="https://github.com/IgorValentimAlves/gerador-frases-motivacionais" target="_blank">
                     <div className="bg-[#F5F7F7] p-6 rounded-2xl shadow-md hover:scale-105 duration-300">
                         <h3 className="text-2xl font-bold text-[#096873] mb-3">
                             Frases Motivacionais
@@ -46,7 +46,7 @@ const Projetos = () => {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="https://github.com/IgorValentimAlves/portfolio-react-tailwind" target="_blank">
                     <div className="bg-[#F5F7F7] p-6 rounded-2xl shadow-md hover:scale-105 duration-300">
                         <h3 className="text-2xl font-bold text-[#096873] mb-3">
                             Portfólio React
