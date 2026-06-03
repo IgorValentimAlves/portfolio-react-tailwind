@@ -9,7 +9,7 @@ const Footer = () => {
             </p>
 
             <p className="text-[#EAFBFC] mt-2">
-                Desenvolvedor Front-End em formação
+                Desenvolvedor Full Stack em formação
             </p>
 
         </footer>
