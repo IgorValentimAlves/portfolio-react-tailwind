@@ -23,28 +23,28 @@ const Header = () => {
                 <h1 className="font-bold text-2xl">Informações de Contato</h1>
 
                 <p>
-                    📱 (24) 99915-8141
+                      (24) 99915-8141
                 </p>
 
                 <p>
-                    💼
+                    
                     <a
                         href="https://www.linkedin.com/in/igor-valentim-alves"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="ml-2 hover:underline"
+                        className=" hover:underline"
                     >
                         LinkedIn
                     </a>
                 </p>
 
                 <p>
-                    💻
+                    
                     <a
                         href="https://github.com/IgorValentimAlves"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="ml-2 hover:underline"
+                        className="hover:underline"
                     >
                         GitHub
                     </a>
