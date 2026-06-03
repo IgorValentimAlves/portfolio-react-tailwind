@@ -32,11 +32,11 @@ const Experiencias = () => {
 
                 <div>
                     <h3 className="text-2xl font-bold text-[#096873]">
-                        Drogaria
+                        Farmácia
                     </h3>
 
                     <p className="text-gray-700 mt-2">
-                        Na drogaria desenvolvi comunicação, empatia e experiência com atendimento ao público. Além da rotina operacional, aprendi a entender necessidades, lidar com diferentes situações e encontrar soluções de forma clara e objetiva — competências que considero essenciais também para áreas de suporte e tecnologia.
+                        Na farmácia desenvolvi comunicação, empatia e experiência com atendimento ao público. Além da rotina operacional, aprendi a entender necessidades, lidar com diferentes situações e encontrar soluções de forma clara e objetiva — competências que considero essenciais também para áreas de suporte e tecnologia.
                     </p>
                 </div>
 
